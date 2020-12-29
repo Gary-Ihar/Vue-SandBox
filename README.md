@@ -1,5 +1,7 @@
 # test-app
-
+```
+My little vue project
+```
 ## Project setup
 ```
 npm install
